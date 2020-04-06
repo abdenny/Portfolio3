@@ -1,4 +1,4 @@
-/*@charset "utf-8";*/
+/*charset "utf-8";*/
 /*
 /*	Copyright (c) 2018 Marketify
 /*	Author: Marketify
@@ -436,7 +436,7 @@ img.svg {
   box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_universal_box_wrap .overlay_image.hero {
-  background-image: url(../img/hero/background.jpg);
+  background-image: url(../img/hero/bg4.jpeg);
 }
 .arlo_tm_universal_box_wrap .overlay_color.hero {
   background-color: #d8c3a5c5;
