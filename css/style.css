@@ -2839,10 +2839,33 @@ img.svg {
 /*---------------------------------------------------*/
 /*	15) ARLO MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
-
-@media (max-width: 1400px) {
+@media (max-width: 3000px) {
   .arlo_tm_about_wrap .leftbox {
     padding-right: 0px;
+  }
+  .arlo_tm_services_wrap .list_wrap ul li {
+    width: 50%;
+  }
+  #arlo_tm_popup_blog .close {
+    right: 0px;
+  }
+  .arlo_tm_list_wrap > ul.total > li {
+    width: 50%;
+  }
+}
+
+@media (max-width: 1800px) {
+  .arlo_tm_about_wrap .leftbox {
+    padding-right: 0px;
+  }
+  .arlo_tm_services_wrap .list_wrap ul li {
+    width: 50%;
+  }
+  #arlo_tm_popup_blog .close {
+    right: 0px;
+  }
+  .arlo_tm_list_wrap > ul.total > li {
+    width: 50%;
   }
 }
 @media (max-width: 1200px) {
